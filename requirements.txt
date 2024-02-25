@@ -1,2 +1,6 @@
 beautifulsoup4~=4.12.3
-python-allrecipes~=0.3.1
+lxml
+requests
+# python-allrecipes~=0.3.1
+git+https://github.com/afwolfe/python-allrecipes.git@fix-name-and-times#egg=python-allrecipes
+git+https://github.com/afwolfe/pyhellofresh.git@main#egg=pyhellofresh
